@@ -1,0 +1,15 @@
+google-generativeai
+SpeechRecognition
+pygame
+requests
+gTTS
+python-dotenv
+PyQt6
+opencv-python
+sounddevice
+vosk
+pywin32
+urllib3
+edge-tts
+pyttsx3
+opencv-python
